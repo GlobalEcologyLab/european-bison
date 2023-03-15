@@ -1,0 +1,58 @@
+Longitude,Latitude,Country,Site,Date,Error,C/N,delta13C,Database,ID,OxCal_age,OxCal_error,lab.no,Material_raw,Date_type,Dating_Method,Material_dated,Reference,Barnosky_score,State,New
+-1232763.646,-1043852.114,Switzerland,Küssnacht-Buseri,12750,50,NA,NA,Salva,5,15190.6,85.5957,ETH-39672,NA,Direct,AMS C-14,Collagen,"Nielsen, Palaeogeography, Palaeoclimatology, Palaeoecology, 391, 99-110 (2013)",Reliable,NA,FALSE
+-1193341.152,-974718.8462,NA,"Kesslerloch Cave, Switzerland",12180,70,NA,NA,van Loenen,11,14063.2,119.75,NA,NA,Direct,AMS,Collagen,"Massilani et al., 2016",Reliable,NA,FALSE
+223284.7257,-963587.6933,Ukraine,Żmerynka,13573,36,3.307090269,-19.25552332,Soubrier et al. 2016,143,16355.4,93.7403,ETH-66330,NA,NA,NA,NA,NA,NA,NA,TRUE
+238381.1028,-1161096.332,Moldova,Sipoteni,12383,42,3.248411456,-18.93359392,not published,119,14437.8,161.633,ETH-56089,NA,NA,NA,NA,NA,NA,NA,TRUE
+747050.9928,-159839.468,NA,"Voronovka, Urals, Russia",12505,55,NA,-18.993,van Loenen,13,14726.5,199.538,NA,NA,Direct,AMS,Collagen,"Soubrier et al., 2016",Reliable,NA,FALSE
+1733962.85,600204.8308,NA,"Sur'ya 5, Urals, Russia",13120,60,NA,-19.627,van Loenen,15,15745.7,124.439,NA,NA,Direct,AMS,Collagen,"Soubrier et al., 2016",Reliable,NA,FALSE
+1740758.818,590713.1907,NA,"Rasik 1, Urals, Russia",12565,55,NA,-19.887,van Loenen,14,14873.3,164.446,NA,NA,Direct,AMS,Collagen,"Soubrier et al., 2016",Reliable,NA,FALSE
+1755035.3,731713.0738,NA,Sur'ya 5 (ZMIPAE),16810,65,NA,NA,Soubrier,1,20275,111.624,OxA-12122,Metapodial,Direct,AMS,Collagen,"Soubrier et al, Nature Communications, 7: 13158 (2016)",Reliable,NA,FALSE
+1755008.926,755090.3903,NA,"Ladeinyi Kamen, Urals, Russia",15310,70,NA,-19.171,van Loenen,17,18580.8,87.7856,NA,NA,Direct,AMS,Collagen,"Soubrier et al., 2016",Reliable,NA,FALSE
+-1204322.309,-526912.3064,Germany,Mu_nsterland,9256,27,NA,NA,Salva,4,10432.04,60.8925,Hd-29017,metapodium,Direct,AMS C-14,Collagen,"Bertling et al, Fossil Imprint, 73, 454-459 (2017)",Reliable,Westphalia,FALSE
+-903359.7935,56068.50579,Denmark,"N. Jylland, Jarmsted Mose at Brovst",10000,80,NA,-19.9915737,Hofman-Kaminska 2019,112,11514.91,161.228,AAR-4544,Proc. Cornualis sin.,Direct,AMS,Collagen,Bocherens et al. 2015,Reliable,NA,FALSE
+-883504.1708,-26241.34739,Denmark,"Jylland, Balskov, Morke Paris, Randers",9942,39,NA,-19.65620363,Hofman-Kaminska 2019,40,11363.74,92.0419,ETH-70756,horn,Direct,AMS,Collagen,this study,Reliable,NA,FALSE
+-909939.1922,-164208.1839,Denmark,"Fyn, Akkerup",9540,85,NA,-19.5877625,Hofman-Kaminska 2019,111,10889.85,149.959,K-6005,scapula dex.,Direct,AMS,Collagen,Bocherens et al. 2015,Reliable,NA,FALSE
+-943361.5721,-342307.4733,Germany,"Schleswig-Holstein, Stellmoor",10070,50,NA,-19.662317,Hofman-Kaminska 2019,62,11613.23,141.67,KIA-3331,skull,Direct,AMS,Collagen,Bocherens et al. 2015,Reliable,NA,FALSE
+-943361.5721,-342307.4733,Germany,"Schleswig-Holstein, Stellmoor",8970,75,NA,-20.7304895,Hofman-Kaminska 2019,63,10069.86,118.184,OxA-3628,radius,Direct,AMS,Collagen,Bocherens et al. 2015,Reliable,NA,FALSE
+-693372.8437,-119428.0593,Sweden,Skåne,8700,130,NA,-22.60993829,Hofman-Kaminska 2019,106,9775.94,183.568,Ua-2279,skull,Direct,AMS,Collagen,this study,Reliable,NA,FALSE
+-585769.5318,87281.11069,Sweden,Lommaryd,9460,130,NA,-19.19589029,Hofman-Kaminska 2019,109,10772.66,212.082,Ua-2274,skull,Direct,AMS,Collagen,this study,Reliable,NA,FALSE
+-364482.1471,-367247.5426,Poland,Jazowa,9477,38,NA,-22.06497222,Hofman-Kaminska 2019,48,10755.51,120.594,ETH-70761,horn,Direct,AMS,Collagen,this study,Reliable,NA,FALSE
+-1424966.315,-1079567.998,France,"French Jura, Gouffre de la Cabosse",4325,35,NA,-22.8143693,Hofman-Kaminska 2019,103,4900.05,44.5204,Ly-7685(GrA),skull,Direct,AMS,Collagen,this study,Reliable,NA,FALSE
+-1282732.57,-1020069.681,Switzerland,Burgäschisee-Süd,5003,28,NA,-23.6422044,Hofman-Kaminska 2019,55,5745.17,67.409,ETH-56104,mandible left,Direct,AMS,Collagen,this study,Reliable,NA,FALSE
+-1191949.071,-1037909.896,Switzerland,Wangen,4493,23,NA,-22.41965291,Hofman-Kaminska 2019,61,5167.62,74.7313,ETH-73397,maxilla left,Direct,AMS,Collagen,this study,Reliable,NA,FALSE
+-705869.0326,-1011783.634,Austria,"Niederösterreich, Melk-Winden",5747,25,NA,-24.438981,Hofman-Kaminska 2019,32,6547.9,44.15,ETH-73401,radius,Direct,AMS,Collagen,this study,Reliable,NA,FALSE
+-696070.6824,-1074926.848,Austria,Steiermark,5090,60,3.196919068,-21.8718196,Hofman-Kamińska etal_2019,115,5822.98,69.7151,VERA0141,NA,NA,NA,NA,NA,NA,NA,TRUE
+-228476.2244,-777412.8508,Poland,Złota near Sandomierz,4885,29,NA,-21.71238492,Hofman-Kaminska 2019,59,5619.93,23.1079,ETH-56097,maxilla,Direct,AMS,Collagen,this study,Reliable,NA,FALSE
+-211606.795,-853531.9326,Poland,Wisłok river,5432,37,NA,-22.31491956,Hofman-Kaminska 2019,105,6237.93,38.8471,ETH-70757,horn right with part of skull,Direct,AMS,Collagen,this study,Reliable,NA,FALSE
+134902.6336,-369963.7041,Belarus,Asaviec,4154,26,NA,-21.54435316,Hofman-Kaminska 2019,39,4702.72,68.3983,ETH-66343,atlas,Direct,AMS,Collagen,this study,Reliable,NA,FALSE
+1700501.835,-1726255.742,Arnenia,Sevan Lake,4972,29,NA,NA,Salva,104,5696.88,45.7049,OxA-31935,horn core,Direct,AMS C-14,Collagen,"W_cek et al., Molecular Biology and Evolution, 34: 598-612 (2017)",Reliable,NA,FALSE
+1732593.298,-1687070.058,Armenia,Sevan Lake,4537,37,3.319271189,-19.06091123,not published,113,5177.13,84.1963,ETH-70760,NA,NA,NA,NA,NA,NA,NA,TRUE
+1732593.298,-1687070.058,Armenia,Sevan Lake,4919,37,3.302313384,-19.52877993,not published,114,5647.85,38.3935,ETH-70759,NA,NA,NA,NA,NA,NA,NA,TRUE
+-1363572.876,-1020803.971,Switzerland,"La Brévine, Ne, Combe de la Racine",3621,31,NA,-23.0473373,Hofman-Kaminska 2019,65,3934.21,48.6516,Ua-42583,skull,Direct,AMS,Collagen,this study,Reliable,NA,FALSE
+-811013.621,-1071196.075,NA,"Styria, Austria",2038,88,NA,-23.3008243,van Loenen,8,2017.7596,115.663,NA,NA,Direct,AMS,Collagen,This study,Reliable,NA,FALSE
+-811013.621,-1071196.075,Austria,"Tauplitz, Zwergweiden-doline",2073,29,NA,-23.3008243,Hofman-Kaminska 2019,92,2044.9407,44.0361,ETH-51784,skull with horns,Direct,AMS,Collagen,this study,Reliable,NA,FALSE
+-725754.883,-1074527.487,Austria,Styria,1480,70,NA,NA,Salva,81,1393.909,69.2769,VERA-145,tibia,Direct,AMS C-14,Collagen,"W_cek et al., Molecular Biology and Evolution, 34: 598-612 (2017)",Reliable,NA,FALSE
+-725754.883,-1074527.487,Austria,"Hochschwab, STUB-Schacht 194",1530,70,NA,-23.0280763,Hofman-Kaminska 2019,82,1433.915,70.3709,VERA0144,skull,Direct,AMS,Collagen,this study,Reliable,NA,FALSE
+-719085.2886,-1071174.863,Austria,Staritzenhöhle,1628,36,NA,-23.25112414,Hofman-Kaminska 2019,84,1510.546,55.973,ETH-70764,mandible left,Direct,AMS,Collagen,this study,Reliable,NA,FALSE
+-719085.2886,-1071174.863,Austria,Staritzenhöhle,1629,36,NA,-24.01761174,Hofman-Kaminska 2019,85,1512.088,56.2191,ETH-70765,skull,Direct,AMS,Collagen,this study,Reliable,NA,FALSE
+-719085.2886,-1071174.863,Austria,"Styria, Zeller Staritzen",2038,29,NA,-24.277048,Hofman-Kaminska 2019,89,1995.6102,45.9357,ETH-51782,skull,Direct,AMS,Collagen,this study,Reliable,NA,FALSE
+-624864.6859,-981022.3427,Austria,"Niederösterreich, Sand",1130,21,NA,-23.287891,Hofman-Kaminska 2019,34,1025.194,35.3447,ETH-73399,pelvis,Direct,AMS,Collagen,this study,Reliable,NA,FALSE
+-624864.6859,-981022.3427,Austria,"Niederösterreich, Sand",1189,21,NA,-24.9940405,Hofman-Kaminska 2019,35,1118.293,37.5649,ETH-73400,scapula,Direct,AMS,Collagen,this study,Reliable,NA,FALSE
+-442445.4208,-793204.7531,Poland,Pyskowice,3677,27,NA,-23.51,Hofman-Kaminska 2019,102,4016.45,49.3261,ETH-84167,horn left,Direct,AMS,Collagen,this study,Reliable,NA,FALSE
+-411075.9718,-607720.2784,Poland,Kozanki Podleśne,2061,30,NA,-24.2775636,Hofman-Kaminska 2019,49,2030.7121,46.7781,ETH-51792,skull with horns,Direct,AMS,Collagen,this study,Reliable,NA,FALSE
+-327101.177,-363620.697,Poland,Leśnictwo Zaporowo,3145,30,NA,-22.3556288,Hofman-Kaminska 2019,98,3365.7,44.671,ETH-51810,horn,Direct,AMS,Collagen,this study,Reliable,NA,FALSE
+-280186.8296,-378909.8927,Poland,Lidzbark Warmiński XIX,639,28,NA,-23.7397644,Hofman-Kaminska 2019,72,606.98,34.7805,ETH-51793,pelvis,Direct,AMS,Collagen,this study,Reliable,NA,FALSE
+-185255.9135,-466548.5771,Poland,Barzykowo,1536,27,NA,-22.1734388,Hofman-Kaminska 2019,83,1442.129,48.5078,ETH-51802,skull,Direct,AMS,Collagen,this study,Reliable,NA,FALSE
+-169392.15,-162665.6911,Lithuania,"Gadūnavas, Sarakai",694,28,NA,-22.7852312,Hofman-Kaminska 2019,74,643.39,38.0266,ETH-51806,skull with horns,Direct,AMS,Collagen,this study,Reliable,NA,FALSE
+-170170.1881,-419534.3262,Poland,Ełk Castle 8,371,23,NA,-24.3718163,Hofman-Kaminska 2019,66,420.54,58.4279,ETH-85689,horn with part of skull,Direct,AMS,Collagen,this study,Reliable,NA,FALSE
+-150837.7214,-583384.3502,Poland,Zajęczniki n. Bugiem,1620,24,3.800891141,-22.19,Hofman-Kamińska etal_2019,126,1499.893,47.6118,ETH-84166,NA,NA,NA,NA,NA,NA,NA,TRUE
+-182514.9539,-1633765.764,Romania,Şesul Gârzii,270,20,NA,NA,Bojar et al.. 2015,128,331.52,57.0228,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+-134120.4791,-520747.8186,Poland,Narew rever,668,26,3.310781657,-22.7841644,Hofman-Kamińska etal_2019,123,619.64,40.0405,ETH-51804,NA,NA,NA,NA,NA,NA,NA,TRUE
+-134026.4016,-522222.006,Poland,Uroczysko Piszczewo near. Suraż/ Zamkowa Góra,3645,29,NA,-23.0983076,Hofman-Kaminska 2019,51,3967.18,54.2099,ETH-51803,skull with horn,Direct,AMS,Collagen,this study,Reliable,NA,FALSE
+-151634.7595,-1652600.898,Bulgaria,NA,3527,30,NA,NA,Neov et al. 2021,117,3795.55,51.2029,OxA-35220,NA,NA,NA,NA,NA,NA,NA,TRUE
+-151634.7595,-1652600.898,Bulgaria,Ponor Mountain,3561,30,NA,-22.8459196,Hofman-Kaminska 2019,101,3853.36,51.8612,ETH-51789,skull,Direct,AMS,Collagen,this study,Reliable,NA,FALSE
+-111492.0918,-390412.1249,Poland,Żłobin,502,28,NA,-22.5380816,Hofman-Kaminska 2019,68,528.02,18.4363,ETH-51811,skull with horns,Direct,AMS,Collagen,this study,Reliable,NA,FALSE
+-8964.408494,-299687.9381,Lithuania,Kernavė upper town,756,28,NA,-23.0190396,Hofman-Kaminska 2019,42,690.82,17.3956,ETH-51790,horn,Direct,AMS,Collagen,this study,Reliable,NA,FALSE
+-2884.246993,-1130434.696,Romania,Podul. Sesur,2911,23,3.346975412,-23.057673,not published,127,3050.07,47.1632,ETH-85685,NA,NA,NA,NA,NA,NA,NA,TRUE
+1223517.15,-1418050.481,NA,NA,NA,NA,NA,NA,NA,144,100,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+-66848.65083,-544517.506,NA,NA,NA,NA,NA,NA,NA,145,148,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
